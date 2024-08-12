@@ -47,5 +47,5 @@
     - `--oneline` : 간결하게 보여줌
 
 ### branch 및 merge 관련
- - git add . -> git commit -> git push origin main
+ - `git add .` -> `git commit` -> `git push origin main`
  - 동시에 올라가면 중첩된 부분 해결 후 다시 push
